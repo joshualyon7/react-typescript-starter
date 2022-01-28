@@ -1,0 +1,12 @@
+
+> react-typescript-starter@0.1.0 test
+> react-scripts test
+
+PASS src/App.test.tsx
+  ✓ renders the course name somewhere (38 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        1.538 s
+Ran all test suites.
