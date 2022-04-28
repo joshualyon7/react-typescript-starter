@@ -44,7 +44,7 @@
         ],
         "brace-style": ["error", "1tbs"],
         "indent": ["error", 4],
-        "quotes": ["error", "double"],
+        "quotes": ["error", "double", { "avoidEscape": true }],
         "semi": ["error", "always"]
     }
 }
