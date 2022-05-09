@@ -24,7 +24,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "test:cov": "react-scripts test --coverage --watchAll",
-        "contributions": "gitinspector --grading -r --file-types=** -x file:package-lock.json",
+        "contributions": "gitinspector --grading -r",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
